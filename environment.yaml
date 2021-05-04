@@ -1,7 +1,9 @@
 name: t32
 channels:
     - conda-forge
+    - r
 dependencies:
     - jupyterlab
     - r-irkernel 
     - r-recommended
+    - r-curl
