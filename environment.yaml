@@ -1,0 +1,7 @@
+name: t32
+channels:
+    - conda-forge
+dependencies:
+    - jupyterlab
+    - r-irkernel 
+    - r-recommended
