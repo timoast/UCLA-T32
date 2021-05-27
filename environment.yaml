@@ -7,3 +7,4 @@ dependencies:
     - r-irkernel 
     - r-recommended
     - r-curl
+    - hdf5
