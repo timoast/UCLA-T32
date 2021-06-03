@@ -21,7 +21,7 @@ already: https://docs.conda.io/en/latest/miniconda.html
 Next, clone this repository:
 
 ```sh
-git clone git@github.com:timoast/UCLA-T32.git
+git clone https://github.com/timoast/UCLA-T32.git
 cd UCLA-T32/
 ```
 
